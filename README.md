@@ -4,15 +4,15 @@ This repo contains a collection of example projects in a variety of languages an
 
 ### Python
 
-* [Flask]()
-* [FastAPI]()
+* [Flask](https://github.com/enteka-software/enalog-examples/tree/main/python/flask)
+* [FastAPI](https://github.com/enteka-software/enalog-examples/tree/main/python/fastapi)
 
 ### Node.js
 
 * [Fastify]()
 * [Express.js]()
-* [Nest]()
-* [Koa.js]()
+* [Nest](https://github.com/enteka-software/enalog-examples/tree/main/node/nest)
+* [Koa.js](https://github.com/enteka-software/enalog-examples/tree/main/node/koa)
 
 ### PHP
 
