@@ -7,10 +7,6 @@ This repo contains a collection of example projects in a variety of languages an
 * [Flask](https://github.com/enteka-software/enalog-examples/tree/main/python/flask)
 * [FastAPI](https://github.com/enteka-software/enalog-examples/tree/main/python/fastapi)
 
-### JavaScript & TypeScript
-
-* [Next.js JavaScript](https://github.com/enteka-software/enalog-examples/tree/main/js-ts/nextjs-js)
-
 ### Node.js
 
 * [Fastify]()
@@ -20,12 +16,11 @@ This repo contains a collection of example projects in a variety of languages an
 
 ### PHP
 
-* WIP
+* [Laravel]()
+* [Symfony]()
 
 ### Go
 
 * WIP
 
 ### Java
-
-* WIP
