@@ -9,6 +9,7 @@ This repo contains a collection of example projects in a variety of languages an
 
 ### Node.js
 
+* [Next.js](https://github.com/enteka-software/enalog-examples/tree/main/node/nextjs)
 * [Fastify]()
 * [Express.js]()
 * [Nest](https://github.com/enteka-software/enalog-examples/tree/main/node/nest)
