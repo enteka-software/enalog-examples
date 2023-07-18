@@ -13,10 +13,10 @@ class EventController
     public function helloWorld(): JsonResponse
     {
         try {
-            $enalog = new EnaLogClient('7WDHDRRS2IZR1PAQ9JOC54X3');
+            $enalog = new EnaLogClient('api-token-goes-here');
 
             $enalog->pushEvent([
-                'project' => 'samnewby-dev',
+                'project' => 'test-project',
                 'name' => 'hello-from-php',
                 'tags' => ['hello', 'world'],
                 'meta' => ['php' => 'test'],
